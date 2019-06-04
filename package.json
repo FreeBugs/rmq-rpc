@@ -1,0 +1,21 @@
+{
+  "name": "rmq-rpc",
+  "version": "1.0.0",
+  "description": "Simple RPC for RabbitMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "rpc",
+    "RabbitMQ",
+    "req/rep"
+  ],
+  "repository": "https://github.com/FreeBugs/rmq-rpc.git",
+  "author": "Daniel Arnold",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "uuid": "^3.3.2"
+  }
+}
