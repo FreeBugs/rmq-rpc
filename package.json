@@ -15,7 +15,7 @@
   "author": "Daniel Arnold",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "^0.5.3",
+    "amqplib": "^0.10.3",
     "uuid": "^3.3.2"
   }
 }
