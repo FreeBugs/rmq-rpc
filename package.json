@@ -16,6 +16,6 @@
   "license": "MIT",
   "dependencies": {
     "amqplib": "^0.10.3",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   }
 }
